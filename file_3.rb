@@ -1,2 +1,1 @@
-puts "Hi Raeger...................."
-puts "Parter yo"
+puts 'Hi Anna! :)'
